@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		body{
+			font-family:'Courier New', monospace;
+		}
+		img{
+			border:w2px solid black;
+		}
+	</style>	
+	<title>Image</title>
+</head>
+<body>
+	<p><h1 style="background-color:yellowgreen;">Sea Turtle</h1></p>
+	<p><img src="images/Sea Turtle.jpeg" width="400" align="center"></img></p>
+	<p>Sea turtles are turtles that usually live in the sea.</p>
+	<p><a href="https://en.wikipedia.org/wiki/Sea_turtle">information page</a></p>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		body{
+			font-family:'Courier New', monospace;
+		}
+		img{
+			border:w2px solid black;
+		}
+	</style>	
+	<title>Image</title>
+</head>
+<body>
+	<p><h1 style="background-color:skyblue;">Octopus</h1></p>
+	<p><img src="images/Octopus2.jpeg" width="400" align="center"></img></p>
+	<p>Octopus's usually live under bodies of water and have 8 tentacles.</p>
+	<p><a href="https://en.wikipedia.org/wiki/Octopus">information page</a></p>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		body{
+			font-family:'Courier New', monospace;
+		}
+		img{
+			border:w2px solid black;
+		}
+	</style>	
+	<title>Image</title>
+</head>
+<body>
+	<p><h1 style="background-color:darkred;">Sea Urchins</h1></p>
+	<p><img src="images/Sea_Urchin.jpeg" width="400" align="center"></img></p>
+	<p>Sea Urchins have hard shells covered in spines to protect them from predators.</p>
+	<p><a href="https://en.wikipedia.org/wiki/Sea_urchin">information page</a></p>
+</body>
+</html>
